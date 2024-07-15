@@ -1,0 +1,110 @@
+PMID- 38103208
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231218
+LR  - 20240514
+IS  - 1551-6709 (Electronic)
+IS  - 0364-0213 (Linking)
+VI  - 47
+IP  - 12
+DP  - 2023 Dec
+TI  - Modeling Brain Representations of Words' Concreteness in Context Using GPT-2 and 
+      Human Ratings.
+PG  - e13388
+LID - 10.1111/cogs.13388 [doi]
+AB  - The meaning of most words in language depends on their context. Understanding how 
+      the human brain extracts contextualized meaning, and identifying where in the 
+      brain this takes place, remain important scientific challenges. But technological 
+      and computational advances in neuroscience and artificial intelligence now 
+      provide unprecedented opportunities to study the human brain in action as 
+      language is read and understood. Recent contextualized language models seem to be 
+      able to capture homonymic meaning variation ("bat", in a baseball vs. a vampire 
+      context), as well as more nuanced differences of meaning-for example, polysemous 
+      words such as "book", which can be interpreted in distinct but related senses 
+      ("explain a book", information, vs. "open a book", object) whose differences are 
+      fine-grained. We study these subtle differences in lexical meaning along the 
+      concrete/abstract dimension, as they are triggered by verb-noun semantic 
+      composition. We analyze functional magnetic resonance imaging (fMRI) activations 
+      elicited by Italian verb phrases containing nouns whose interpretation is 
+      affected by the verb to different degrees. By using a contextualized language 
+      model and human concreteness ratings, we shed light on where in the brain such 
+      fine-grained meaning variation takes place and how it is coded. Our results show 
+      that phrase concreteness judgments and the contextualized model can predict BOLD 
+      activation associated with semantic composition within the language network. 
+      Importantly, representations derived from a complex, nonlinear composition 
+      process consistently outperform simpler composition approaches. This is 
+      compatible with a holistic view of semantic composition in the brain, where 
+      semantic representations are modified by the process of composition itself. When 
+      looking at individual brain areas, we find that encoding performance is 
+      statistically significant, although with differing patterns of results, 
+      suggesting differential involvement, in the posterior superior temporal sulcus, 
+      inferior frontal gyrus and anterior temporal lobe, and in motor areas previously 
+      associated with processing of concreteness/abstractness.
+CI  - © 2023 The Authors. Cognitive Science published by Wiley Periodicals LLC on 
+      behalf of Cognitive Science Society (CSS).
+FAU - Bruera, Andrea
+AU  - Bruera A
+AUID- ORCID: 0000-0003-2484-2483
+AD  - School of Electronic Engineering and Computer Science, Cognitive Science Research 
+      Group, Queen Mary University of London.
+AD  - Lise Meitner Research Group Cognition and Plasticity, Max Planck Institute for 
+      Human Cognitive and Brain Sciences.
+FAU - Tao, Yuan
+AU  - Tao Y
+AUID- ORCID: 0000-0002-2010-8380
+AD  - Department of Cognitive Science, Johns Hopkins University.
+FAU - Anderson, Andrew
+AU  - Anderson A
+AUID- ORCID: 0000-0003-0316-9787
+AD  - Department of Neurology, Medical College of Wisconsin.
+FAU - Çokal, Derya
+AU  - Çokal D
+AUID- ORCID: 0000-0002-5653-1412
+AD  - Department of German Language and Literature I-Linguistics, University of 
+      Cologne.
+FAU - Haber, Janosch
+AU  - Haber J
+AUID- ORCID: 0000-0001-5494-9770
+AD  - School of Electronic Engineering and Computer Science, Cognitive Science Research 
+      Group, Queen Mary University of London.
+AD  - Chattermill, London.
+FAU - Poesio, Massimo
+AU  - Poesio M
+AUID- ORCID: 0000-0001-8469-2072
+AD  - School of Electronic Engineering and Computer Science, Cognitive Science Research 
+      Group, Queen Mary University of London.
+AD  - Department of Information and Computing Sciences, University of Utrecht.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Cogn Sci
+JT  - Cognitive science
+JID - 7708195
+SB  - IM
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - *Brain Mapping/methods
+MH  - Brain/physiology
+MH  - Language
+MH  - Semantics
+OTO - NOTNLM
+OT  - Computational linguistics
+OT  - Concreteness
+OT  - Language models
+OT  - Machine learning
+OT  - Polysemy
+OT  - Semantic composition
+OT  - Semantics
+OT  - fMRI
+EDAT- 2023/12/17 08:42
+MHDA- 2023/12/18 06:42
+CRDT- 2023/12/16 13:23
+PHST- 2023/09/12 00:00 [revised]
+PHST- 2023/04/19 00:00 [received]
+PHST- 2023/10/27 00:00 [accepted]
+PHST- 2023/12/18 06:42 [medline]
+PHST- 2023/12/17 08:42 [pubmed]
+PHST- 2023/12/16 13:23 [entrez]
+AID - 10.1111/cogs.13388 [doi]
+PST - ppublish
+SO  - Cogn Sci. 2023 Dec;47(12):e13388. doi: 10.1111/cogs.13388.
